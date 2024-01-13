@@ -25,9 +25,10 @@ int main(){
     double CaffeineMGFinal;
     double hours;
     float r = log(2) / HALF_LIFE;
-    char go = 'y';
+    //char go = 'y';
 
-    while (go == 'y'){
+    //while (go == 'y){
+    while (1){
 
         cout << "Enter Initial Caffeine consumption: ";
         cin >> CaffeineMgInit;
@@ -38,8 +39,8 @@ int main(){
 
         cout << "Final Caffeine amount in MG: " << CaffeineMGFinal << endl;
 
-        cout << "Go again? y or n: ";
-        cin >> go;
-        if ((go != 'y') && (go != 'n')) go = 'y';
+        //cout << "Go again? y or n: ";
+        //cin >> go;
+        //if ((go != 'y') && (go != 'n')) go = 'y';
     }
 }
