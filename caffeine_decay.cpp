@@ -21,7 +21,7 @@ r = ln(2) / λ ≈≈ 0.1155 in this example
 
 int main(){
     cout << fixed << setprecision(4);
-    double CaffeineMgInit; // Our Principle Amount
+    double CaffeineMgInit; // Our Principal Amount
     double CaffeineMGFinal;
     double hours;
     float r = log(2) / HALF_LIFE;
