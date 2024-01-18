@@ -4,6 +4,12 @@ Jacob Ishak-Boushaki
 Dr. Shafae
 SIE 265
 1-16-2024
+
+This is a tool I spent the past day making as an exercise in C++
+This is the first real C++ project I made from scratch, just for fun
+I like how it not only works perfectly, but it's apealing visually in my ide
+I tried to impliment standard c++ style conventions
+with readability and ease of understanding being my priorities
 */
 
 #include <iostream>

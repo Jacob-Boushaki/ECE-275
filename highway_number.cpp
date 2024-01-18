@@ -6,6 +6,9 @@ ECE-275
 1-16-2024
 */
 
+/*This was an in class assignment that doesn't particularly interest me
+I dont see myself working on it further
+*/
 #include <iostream>
 #include <iomanip> // For setprecision
 #include <cmath>
