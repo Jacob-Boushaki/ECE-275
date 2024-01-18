@@ -4,6 +4,7 @@
 using namespace std;
 
 int main(){
+    cout << "Hello world" << endl;
     
     int num;
     cout << "Enter an integer: ";
