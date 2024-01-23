@@ -2,6 +2,7 @@
     "files.associations": {
         "iostream": "cpp",
         "cmath": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "jacob ishak-boushaki_hw 1_ece 275": "cpp"
     }
 }
