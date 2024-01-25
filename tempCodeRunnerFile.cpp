@@ -1,0 +1,1 @@
+cout<< all_cities.at(i).percent<< endl;
