@@ -1,1 +1,1 @@
-This is an archive for old classworks and such that I don't care to improve or revisit
+This is an archive for old classworks and such that I probably wont improve or revisit
